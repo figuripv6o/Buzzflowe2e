@@ -1,0 +1,8 @@
+/buzzflow
+    /morning_activation
+    /midday_reset
+    /evening_sync
+    /guardian_lock
+    /dashboard_sync
+    /git_autopush
+    /firebase_autodeploy
